@@ -1,4 +1,4 @@
-# Simon Says
+# Simon Says   https://inquisitive-anmol.github.io/Siman-Says-Game/
 
 ## Description
 This is a simple implementation of the classic game "Simon Says". The game is built with HTML, CSS, and JavaScript.
